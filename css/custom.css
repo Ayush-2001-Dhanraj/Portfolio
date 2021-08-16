@@ -1,0 +1,9 @@
+.book {
+  color: black;
+  font-weight: 900;
+}
+
+.book:hover {
+  color: black;
+  font-weight: 700;
+}
